@@ -1,0 +1,25 @@
+{
+  "name": "jwt-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li-zhenyu/jwt-presentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li-zhenyu/jwt-presentation/issues"
+  },
+  "homepage": "https://github.com/li-zhenyu/jwt-presentation#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "nodemon": "^1.18.9"
+  }
+}
