@@ -7,4 +7,4 @@ POST http://localhost:3000/login
 ###
 
 GET http://localhost:3000/user/account
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIyOTkzMywidXNlcm5hbWUiOiJYaWFvIE1pbmciLCJpYXQiOjE1NDU3MDI0NjR9.xWXELOFBYKR3pqp1lWKwfJoghAldyNIif2O9Oh5CRTo
+Authorization: bearer
